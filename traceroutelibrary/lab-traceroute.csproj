@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>lab_traceroute</RootNamespace>
+    <PackageId>lab_traceroute</PackageId>
+    <Version>1.0</Version>
+    <Authors>Zandro Wallaert</Authors>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "trace/1.0.0": {
+        "dependencies": {
+          "lab_traceroute": "1.0.0"
+        },
+        "runtime": {
+          "trace.dll": {}
+        }
+      },
+      "lab_traceroute/1.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/lab-traceroute.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab_traceroute/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PA6nJf1O9zmPusEg6PvULbAUjULcLJHKtZ8J6pE45yCiorY2CKwAHcb+wQ1gz4yuvfTIIyjhzXTACMCrhIrM/A==",
+      "path": "lab_traceroute/1.0.0",
+      "hashPath": "lab_traceroute.1.0.0.nupkg.sha512"
+    }
+  }
+}

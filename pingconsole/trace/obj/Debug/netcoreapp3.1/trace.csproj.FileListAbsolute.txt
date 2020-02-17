@@ -1,0 +1,13 @@
+D:\Desktop\tracerout console\trace\bin\Debug\netcoreapp3.1\trace.exe
+D:\Desktop\tracerout console\trace\bin\Debug\netcoreapp3.1\trace.deps.json
+D:\Desktop\tracerout console\trace\bin\Debug\netcoreapp3.1\trace.runtimeconfig.json
+D:\Desktop\tracerout console\trace\bin\Debug\netcoreapp3.1\trace.runtimeconfig.dev.json
+D:\Desktop\tracerout console\trace\bin\Debug\netcoreapp3.1\trace.dll
+D:\Desktop\tracerout console\trace\bin\Debug\netcoreapp3.1\trace.pdb
+D:\Desktop\tracerout console\trace\bin\Debug\netcoreapp3.1\lab-traceroute.dll
+D:\Desktop\tracerout console\trace\obj\Debug\netcoreapp3.1\trace.csprojAssemblyReference.cache
+D:\Desktop\tracerout console\trace\obj\Debug\netcoreapp3.1\trace.AssemblyInfoInputs.cache
+D:\Desktop\tracerout console\trace\obj\Debug\netcoreapp3.1\trace.AssemblyInfo.cs
+D:\Desktop\tracerout console\trace\obj\Debug\netcoreapp3.1\trace.csproj.CopyComplete
+D:\Desktop\tracerout console\trace\obj\Debug\netcoreapp3.1\trace.dll
+D:\Desktop\tracerout console\trace\obj\Debug\netcoreapp3.1\trace.pdb

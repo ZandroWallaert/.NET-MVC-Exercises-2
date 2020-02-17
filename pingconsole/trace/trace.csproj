@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RestoreSources>$(RestoreSources);D:\Desktop\3Theorie\Software Development IV\week 2\traceroute\bin\Debug;https://api.nuget.org/v3/index.json</RestoreSources>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="lab_traceroute" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
